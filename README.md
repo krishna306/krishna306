@@ -52,6 +52,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&" alt="krishna306" /></p>
 <h3 align="left">Get in touch with me through the attached links:</h3>
+<div>
+<a href="mailto:krishnakumarkeer5017@gmail.com">
+  <img alt="Krishna's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
+</a>
+ </div>
 <p align="left">
 <a href="https://linkedin.com/in/krishnakumar2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakumar2701" height="30" width="40" /></a>
 <a href="https://fb.com/krishna.kumar.196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna.kumar.196" height="30" width="40" /></a>
