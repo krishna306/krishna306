@@ -7,7 +7,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1qPevk3rvW16n9lbTQ1V71BybgEeVL4Ad/view?usp=sharing](https://drive.google.com/file/d/1qPevk3rvW16n9lbTQ1V71BybgEeVL4Ad/view?usp=sharing) 
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
