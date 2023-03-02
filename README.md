@@ -28,11 +28,17 @@
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna306&show_icons=true&locale=en&layout=compact" alt="krishna306" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna306&show_icons=true&locale=en&layout=compact" alt="krishna306" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna306&show_icons=true&locale=en" alt="krishna306" /></p>
+<p>&nbsp;
+  <img align="center" width="460px" height="190px"  src="https://github-readme-stats.vercel.app/api?username=krishna306&show_icons=true&locale=en" alt="krishna306" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&" alt="krishna306" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&" alt="krishna306" />
+</p>
 <h3 align="left">Get in touch with me through the attached links:</h3>
 <div>
 <a href="mailto:krishnakumarkeer5017@gmail.com">
@@ -41,8 +47,12 @@
  </div>
  <br>
 <p align="left">
-<a href="https://linkedin.com/in/krishnakumar2701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakumar2701" height="30" width="40" /></a>
-<a href="https://fb.com/krishna.kumar.196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna.kumar.196" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishnakumar2701" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-   generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakumar2701" height="30" width="40" />
+ </a>
+<a href="https://fb.com/krishna.kumar.196" target="blank">
+    <img align="center"     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna.kumar.196" height="30" width="40" />
+ </a>
 <a href="https://instagram.com/kr1shna96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr1shna96" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/krishna9196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna9196" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/noobcoder9196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noobcoder9196" height="30" width="40" /></a>
