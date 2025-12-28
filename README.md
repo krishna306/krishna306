@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development and React**
 
-- 📄 My Resume [https://drive.google.com/file/d/1IFKoX4HmZnQHJbT3L_9shOpoa_0rN1qE/view?usp=sharing](https://drive.google.com/file/d/1IFKoX4HmZnQHJbT3L_9shOpoa_0rN1qE/view?usp=sharing) 
+- 📄 My Resume [resume](https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing) 
 
 #### Languages and Tools:
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
