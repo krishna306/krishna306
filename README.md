@@ -25,7 +25,7 @@
 - ⚡ **CORE_PROFILE:** Software engineer with 2+ years of experience building production applications on Apple platforms.
 - 🛠 **EXPERTISE:** Swift, Objective-C, Xcode, CI/CD pipelines, third-party SDK integration, and performance debugging.
 - 🧠 **FOUNDATION:** Strong background in OOP, SOLID principles, Data Structures, Algorithms, and System Design.
-- 🚀 **GOAL:** Eager to apply Apple ecosystem expertise to iOS mobile development.
+- 🚀 **GOAL:** Eager to apply my expertise to iOS mobile and Full Stack development.
 - 📄 **EXTERNAL_LINK:** [ACCESS_RESUME](https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing) 
 
 <br>
@@ -114,6 +114,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&theme=radical" height="200" alt="krishna306 streak" />
   <img src="https://leetcard.jacoblin.cool/krishna2023?theme=radical" height="200" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://cf.leed.at?id=noobcoder9196" height="131" alt="Codeforces Stats" />
+  <img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=krishna9196&theme=dark" height="131" alt="HackerRank Stats" />
 </p>
 
 <div align="center">
