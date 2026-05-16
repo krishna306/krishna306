@@ -1,0 +1,83 @@
+<svg width="495" height="280" viewBox="0 0 495 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cf_bg" x1="0" y1="0" x2="495" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141321"/>
+      <stop offset="1" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="cf_title_grad" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fe428e"/>
+      <stop offset="1" stop-color="#a960d9"/>
+    </linearGradient>
+    <linearGradient id="cf_bar" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fe428e"/>
+      <stop offset="1" stop-color="#f8d847"/>
+    </linearGradient>
+    <clipPath id="cf_card_clip">
+      <rect width="495" height="280" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="495" height="280" rx="4" fill="url(#cf_bg)" clip-path="url(#cf_card_clip)"/>
+  <!-- White border -->
+  <rect width="493" height="278" x="1" y="1" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Codeforces Logo (3 bars: blue-red-blue) -->
+  <g transform="translate(16, 14)">
+    <!-- Bar 1: tall blue -->
+    <rect x="0" y="4" width="7" height="22" rx="1.5" fill="#1F8BDE"/>
+    <!-- Bar 2: medium red -->
+    <rect x="10" y="10" width="7" height="16" rx="1.5" fill="#EF3B3B"/>
+    <!-- Bar 3: short blue -->
+    <rect x="20" y="16" width="7" height="10" rx="1.5" fill="#1F8BDE"/>
+  </g>
+
+  <!-- Title -->
+  <text x="56" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" fill="url(#cf_title_grad)">Codeforces Stats</text>
+  <text x="56" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9fef7" opacity="0.8">noobcoder9196</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="60" x2="475" y2="60" stroke="#fe428e" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Row 1: Rating / Max Rating / Rank -->
+  <text x="30" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Current Rating</text>
+  <text x="30" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f8d847">869</text>
+
+  <text x="185" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Max Rating</text>
+  <text x="185" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#fe428e">1034</text>
+
+  <text x="345" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Rank</text>
+  <text x="345" y="106" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="bold" fill="#a9fef7">Newbie</text>
+
+  <!-- Row divider -->
+  <line x1="20" y1="118" x2="475" y2="118" stroke="#ffffff" stroke-width="0.4" opacity="0.15"/>
+
+  <!-- Row 2: Solved / Contests / Submissions -->
+  <text x="30" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Problems Solved</text>
+  <text x="30" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#a960d9">178</text>
+
+  <text x="185" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Contests</text>
+  <text x="185" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#fe428e">64</text>
+
+  <text x="345" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Submissions</text>
+  <text x="345" y="162" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f8d847">432</text>
+
+  <!-- Row divider -->
+  <line x1="20" y1="175" x2="475" y2="175" stroke="#ffffff" stroke-width="0.4" opacity="0.15"/>
+
+  <!-- Row 3: Best Rank label -->
+  <text x="30" y="197" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Best Contest Rank</text>
+  <text x="30" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="bold" fill="#a9fef7">#5670</text>
+
+  <text x="345" y="197" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.7">Profile</text>
+  <text x="345" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="bold" fill="#f8d847">Active</text>
+
+  <!-- Progress bar -->
+  <rect x="20" y="240" width="455" height="5" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="20" y="240" width="200" height="5" rx="2" fill="url(#cf_bar)"/>
+
+  <!-- Footer -->
+  <line x1="20" y1="253" x2="475" y2="253" stroke="#a9fef7" stroke-width="0.4" opacity="0.2"/>
+  <text x="20" y="269" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5">codeforces.com/profile/noobcoder9196</text>
+  <text x="475" y="269" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fe428e" opacity="0.7" text-anchor="end">API: codeforces.com</text>
+</svg>

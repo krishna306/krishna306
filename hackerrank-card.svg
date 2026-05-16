@@ -1,0 +1,102 @@
+<svg width="495" height="280" viewBox="0 0 495 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="hr_bg" x1="0" y1="0" x2="495" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141321"/>
+      <stop offset="1" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="hr_title_grad" x1="0" y1="0" x2="220" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a9fef7"/>
+      <stop offset="1" stop-color="#a960d9"/>
+    </linearGradient>
+    <linearGradient id="hr_bar_ps" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fe428e"/><stop offset="1" stop-color="#a960d9"/>
+    </linearGradient>
+    <linearGradient id="hr_bar_sql" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8d847"/><stop offset="1" stop-color="#fe428e"/>
+    </linearGradient>
+    <linearGradient id="hr_bar_java" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a9fef7"/><stop offset="1" stop-color="#a960d9"/>
+    </linearGradient>
+    <linearGradient id="hr_bar_py" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8d847"/><stop offset="1" stop-color="#a9fef7"/>
+    </linearGradient>
+    <clipPath id="hr_card_clip">
+      <rect width="495" height="280" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="495" height="280" rx="4" fill="url(#hr_bg)" clip-path="url(#hr_card_clip)"/>
+  <!-- White border -->
+  <rect width="493" height="278" x="1" y="1" rx="3" fill="none" stroke="#ffffff" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- HackerRank Logo (green hexagon + H) -->
+  <g transform="translate(14, 12)">
+    <!-- Hexagon shape -->
+    <polygon points="16,2 28,9 28,23 16,30 4,23 4,9" fill="#2EC866" opacity="0.15"/>
+    <polygon points="16,2 28,9 28,23 16,30 4,23 4,9" fill="none" stroke="#2EC866" stroke-width="2"/>
+    <!-- H letter inside -->
+    <text x="16" y="21" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#2EC866" text-anchor="middle">H</text>
+  </g>
+
+  <!-- Title -->
+  <text x="56" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="bold" fill="url(#hr_title_grad)">HackerRank Stats</text>
+  <text x="56" y="46" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9fef7" opacity="0.8">krishna9196</text>
+
+  <!-- Total Points badge -->
+  <rect x="360" y="16" width="120" height="24" rx="2" fill="#a960d9" opacity="0.2"/>
+  <text x="420" y="32" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="bold" fill="#a9fef7" text-anchor="middle">1210 pts total</text>
+
+  <!-- Divider -->
+  <line x1="20" y1="60" x2="475" y2="60" stroke="#a9fef7" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Section label -->
+  <text x="20" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9fef7" opacity="0.6" letter-spacing="1">BADGES  ·  STARS  ·  PROBLEMS SOLVED</text>
+
+  <!-- Badge rows: name | stars | bar | ratio -->
+
+  <!-- Problem Solving | 3/6 | 25 solved -->
+  <text x="20" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8d847">Problem Solving</text>
+  <text x="20" y="114" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.6">25 solved · ⭐⭐⭐</text>
+  <rect x="190" y="102" width="200" height="6" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="102" width="100" height="6" rx="2" fill="url(#hr_bar_ps)"/>
+  <text x="398" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#fe428e" text-anchor="end">3 / 6 ★</text>
+  <text x="475" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5" text-anchor="end">236 pts</text>
+
+  <!-- SQL | 5/5 | 45 solved -->
+  <text x="20" y="133" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8d847">SQL</text>
+  <text x="20" y="147" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.6">45 solved · ⭐⭐⭐⭐⭐  GOLD</text>
+  <rect x="190" y="135" width="200" height="6" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="135" width="200" height="6" rx="2" fill="url(#hr_bar_sql)"/>
+  <text x="398" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#f8d847" text-anchor="end">5 / 5 ★</text>
+  <text x="475" y="145" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5" text-anchor="end">660 pts</text>
+
+  <!-- Java | 3/5 | 12 solved -->
+  <text x="20" y="166" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8d847">Java</text>
+  <text x="20" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.6">12 solved · ⭐⭐⭐</text>
+  <rect x="190" y="168" width="200" height="6" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="168" width="120" height="6" rx="2" fill="url(#hr_bar_java)"/>
+  <text x="398" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" text-anchor="end">3 / 5 ★</text>
+  <text x="475" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5" text-anchor="end">117 pts</text>
+
+  <!-- Python | 3/5 | 13 solved -->
+  <text x="20" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8d847">Python</text>
+  <text x="20" y="213" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.6">13 solved · ⭐⭐⭐</text>
+  <rect x="190" y="201" width="200" height="6" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="201" width="120" height="6" rx="2" fill="url(#hr_bar_py)"/>
+  <text x="398" y="211" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#f8d847" text-anchor="end">3 / 5 ★</text>
+  <text x="475" y="211" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5" text-anchor="end">162 pts</text>
+
+  <!-- C++ | 1/5 | 4 solved -->
+  <text x="20" y="232" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="bold" fill="#f8d847">C++</text>
+  <text x="20" y="246" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.6">4 solved · ⭐</text>
+  <rect x="190" y="234" width="200" height="6" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="190" y="234" width="40" height="6" rx="2" fill="#a960d9"/>
+  <text x="398" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a960d9" text-anchor="end">1 / 5 ★</text>
+  <text x="475" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5" text-anchor="end">30 pts</text>
+
+  <!-- Footer -->
+  <line x1="20" y1="254" x2="475" y2="254" stroke="#a9fef7" stroke-width="0.4" opacity="0.2"/>
+  <text x="20" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9fef7" opacity="0.5">hackerrank.com/krishna9196</text>
+  <text x="475" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#2EC866" opacity="0.7" text-anchor="end">6 badges earned</text>
+</svg>

@@ -117,8 +117,8 @@
 </p>
 
 <p align="center">
-  <img src="https://cf.leed.at?id=noobcoder9196" height="131" alt="Codeforces Stats" />
-  <img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=krishna9196&theme=dark" height="131" alt="HackerRank Stats" />
+  <img src="codeforces-card.svg" alt="Codeforces Stats" />
+  <img src="hackerrank-card.svg" alt="HackerRank Stats" />
 </p>
 
 <div align="center">
