@@ -26,7 +26,7 @@
 - 🛠 **EXPERTISE:** Swift, Objective-C, Xcode, CI/CD pipelines, third-party SDK integration, and performance debugging.
 - 🧠 **FOUNDATION:** Strong background in OOP, SOLID principles, Data Structures, Algorithms, and System Design.
 - 🚀 **GOAL:** Eager to apply my expertise to iOS mobile and Full Stack development.
-- 📄 **EXTERNAL_LINK:** [ACCESS_RESUME](https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing) 
+- 📄 **EXTERNAL_LINK:** <a href="https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing" target="_blank" rel="noopener noreferrer">ACCESS_RESUME</a> 
 
 <br>
 
@@ -89,7 +89,7 @@
 </div>
 
 ### 📂 [ DEPLOYED_ASSETS: PROJECTS ]
-- 🟢 **[ [Blog App (MERN Stack)](https://mernstackblogapp.netlify.app/) ]** 
+- 🟢 **[ <a href="https://mernstackblogapp.netlify.app/" target="_blank" rel="noopener noreferrer">Blog App (MERN Stack)</a> ]** 
   - *Tech: React.js, Node.js, Express, MongoDB*
   - Built a full-stack blog application with complete CRUD operations.
   - Implemented secure user authentication and protected API routes using JWT.
@@ -97,7 +97,7 @@
 <br>
 
 ### 📖 [ ARCHIVES: PUBLICATIONS ]
-- 🟢 **[ [Deep Learning in Medical Image Processing and Analysis (IET)](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch5) ]** 
+- 🟢 **[ <a href="https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch5" target="_blank" rel="noopener noreferrer">Deep Learning in Medical Image Processing and Analysis (IET)</a> ]** 
   - *Comparative Analysis of Lumpy Skin Disease Detection Using Deep Learning Models*
   - Co-authored published book chapter analyzing deep learning models for medical image classification.
 
@@ -127,11 +127,11 @@
 
 ### 📡 [ NETWORK: UPLINK ]
 <p align="center">
-  <a href="mailto:kumarkrishna2576@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" /></a>
-  <a href="https://linkedin.com/in/krishnakumar2701" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" /></a>
-  <a href="https://github.com/krishna306" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub" /></a>
+  <a href="mailto:kumarkrishna2576@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" /></a>
+  <a href="https://linkedin.com/in/krishnakumar2701" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" /></a>
+  <a href="https://github.com/krishna306" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub" /></a>
   <br>
-  <a href="https://leetcode.com/krishna2023" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FFCC" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/krishna9196" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=00FFCC" alt="HackerRank" /></a>
-  <a href="https://codeforces.com/profile/noobcoder9196" target="_blank"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFCC" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/krishna2023" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FFCC" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/krishna9196" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=00FFCC" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/noobcoder9196" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFCC" alt="Codeforces" /></a>
 </p>
