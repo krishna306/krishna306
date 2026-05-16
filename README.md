@@ -1,59 +1,132 @@
-<h1 align="center">Hi 👋, I'm Krishna </h1>
-<h3 align="center">A Competitive Coder and Web Developer</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="developer animation">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna306&label=Profile%20views&color=0e75b6&style=flat" alt="krishna306" /> </p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
 
-- 🌱 I’m currently learning **Web development and React**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=SOFTWARE+ENGINEER;APPLE+PLATFORMS+(SWIFT+%2F+OBJ-C);2%2B+YEARS+PRODUCTION+EXP;STRONG+OOP+%26+SYSTEM+DESIGN" alt="Typing SVG" />
+</h1>
 
-- 📄 My Resume [resume](https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing) 
-
-#### Languages and Tools:
-![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-<br>
-![express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-![node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-![html](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-<br>
-![react](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna306&show_icons=true&locale=en&layout=compact" alt="krishna306" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishna306&label=SYSTEM_ACCESS_COUNT&color=00FFCC&style=for-the-badge&labelColor=000000" alt="krishna306" />
 </p>
 
-<p>&nbsp;
-  <img align="center" width="460px" height="190px"  src="https://github-readme-stats.vercel.app/api?username=krishna306&show_icons=true&locale=en" alt="krishna306" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&" alt="krishna306" />
-</p>
-<h3 align="left">Get in touch with me through the attached links:</h3>
-<div>
-<a href="mailto:krishnakumarkeer5017@gmail.com">
-  <img alt="Krishna's Email" src="https://img.shields.io/badge/-E--mail-1A4730?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
- </div>
- <br>
+### 👾 [ DATA_LOG: SUMMARY ]
+> **STATUS:** 🟢 ONLINE
+> **CURRENT_DIRECTIVE:** Programmer Analyst @ IDrive Software India
+
+- ⚡ **CORE_PROFILE:** Software engineer with 2+ years of experience building production applications on Apple platforms.
+- 🛠 **EXPERTISE:** Swift, Objective-C, Xcode, CI/CD pipelines, third-party SDK integration, and performance debugging.
+- 🧠 **FOUNDATION:** Strong background in OOP, SOLID principles, Data Structures, Algorithms, and System Design.
+- 🚀 **GOAL:** Eager to apply Apple ecosystem expertise to iOS mobile development.
+- 📄 **EXTERNAL_LINK:** [ACCESS_RESUME](https://drive.google.com/file/d/152jcg5mzNXb99MxrAs9MncV6yyZu5dub/view?usp=sharing) 
+
+<br>
+
+### 💽 [ SYSTEM_HISTORY: EXPERIENCE ]
+
+**[ IDRIVE SOFTWARE INDIA ]** // *Programmer Analyst (Jul 2023 – Present)*
+- 🔹 Built and shipped features in a massive Swift/Objective-C/C codebase directly on Apple platforms.
+- 🔹 Integrated the Wimlib open-source engine, boosting performance metrics: **2.5x faster backups** & **3x faster restores**.
+- 🔹 Engineered a **GitLab CI/CD** pipeline for automated macOS build generation.
+- 🔹 Developed a robust **co-brand framework** that adapts system logic and UI for partner clients.
+
+**[ C-DAC CINE ]** // *Full Stack Web Dev Intern (Jun 2022 – Jul 2022)*
+- 🔹 Designed server architecture with JWT-based encryption to secure user access and API endpoints.
+
+<br>
+
+### 🎓 [ MEMORY_BANKS: EDUCATION ]
+- 🎓 **B.Tech in Computer Science & Engineering**
+  - *National Institute of Technology Silchar (Grad: Jun 2023 | CGPA: 8.39)*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
+
+### ⚙️ [ LOADED_MODULES: TECH_STACK ]
+
+> **// CORE_LANGUAGES**
 <p align="left">
-<a href="https://linkedin.com/in/krishnakumar2701" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-   generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnakumar2701" height="30" width="40" />
- </a>
-<a href="https://fb.com/krishna.kumar.196" target="blank">
-    <img align="center"     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna.kumar.196" height="30" width="40" />
- </a>
-<a href="https://instagram.com/kr1shna96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr1shna96" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishna9196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna9196" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/noobcoder9196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noobcoder9196" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=apple&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00FFCC" />
+</p>
+
+> **// FULL_STACK_&_DATABASES**
+<p align="left">
+  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FFCC" />
+</p>
+
+> **// DEVOPS_&_TOOLS**
+<p align="left">
+  <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=00FFCC" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
+
+### 📂 [ DEPLOYED_ASSETS: PROJECTS ]
+- 🟢 **[ [Blog App (MERN Stack)](https://mernstackblogapp.netlify.app/) ]** 
+  - *Tech: React.js, Node.js, Express, MongoDB*
+  - Built a full-stack blog application with complete CRUD operations.
+  - Implemented secure user authentication and protected API routes using JWT.
+
+<br>
+
+### 📖 [ ARCHIVES: PUBLICATIONS ]
+- 🟢 **[ [Deep Learning in Medical Image Processing and Analysis (IET)](https://digital-library.theiet.org/doi/10.1049/pbhe059e_ch5) ]** 
+  - *Comparative Analysis of Lumpy Skin Disease Detection Using Deep Learning Models*
+  - Co-authored published book chapter analyzing deep learning models for medical image classification.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
+
+### 📈 [ TELEMETRY: STATS ]
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishna306&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=-Reviews" alt="krishna306 trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna306&theme=radical" height="200" alt="krishna306 streak" />
+  <img src="https://leetcard.jacoblin.cool/krishna2023?theme=radical" height="200" alt="LeetCode Stats" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="800">
+</div>
+
+### 📡 [ NETWORK: UPLINK ]
+<p align="center">
+  <a href="mailto:kumarkrishna2576@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" /></a>
+  <a href="https://linkedin.com/in/krishnakumar2701" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" /></a>
+  <a href="https://github.com/krishna306" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FFCC" alt="GitHub" /></a>
+  <br>
+  <a href="https://leetcode.com/krishna2023" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00FFCC" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/krishna9196" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-000000?style=for-the-badge&logo=hackerrank&logoColor=00FFCC" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/noobcoder9196" target="_blank"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=00FFCC" alt="Codeforces" /></a>
 </p>
