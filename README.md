@@ -38,8 +38,7 @@
 - 🔹 Engineered a **GitLab CI/CD** pipeline for automated macOS build generation.
 - 🔹 Developed a robust **co-brand framework** that adapts system logic and UI for partner clients.
 
-**[ C-DAC CINE ]** // *Full Stack Web Dev Intern (Jun 2022 – Jul 2022)*
-- 🔹 Designed server architecture with JWT-based encryption to secure user access and API endpoints.
+**[ C-DAC CINE ]** // *Full Stack Web Dev Intern (Jun 2022 – Jul 2022)* — 🔹 Built full-stack solution with JWT-secured server architecture, custom data collection forms, and interactive dashboards for data visualization.
 
 <br>
 
