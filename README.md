@@ -32,7 +32,7 @@
 
 ### 💽 [ SYSTEM_HISTORY: EXPERIENCE ]
 
-**[ IDRIVE SOFTWARE INDIA ]** // *Programmer Analyst (Jul 2023 – Present)*
+**[ <a href="https://www.idrive.com/" target="_blank" rel="noopener noreferrer">IDRIVE SOFTWARE INDIA</a> ]** // *Programmer Analyst (Jul 2023 – Present)*
 - 🔹 Built and shipped features in a massive Swift/Objective-C/C codebase directly on Apple platforms.
 - 🔹 Integrated the Wimlib open-source engine, boosting performance metrics: **2.5x faster backups** & **3x faster restores**.
 - 🔹 Engineered a **GitLab CI/CD** pipeline for automated macOS build generation.
